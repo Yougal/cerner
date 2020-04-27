@@ -9,6 +9,7 @@
   "keywords": [
     "auth0",
     "extension"
-  ]
+  ],
+   "codeUrl": "https://raw.githubusercontent.com/auth0/sample-extension/master/index.js"
 }
 
